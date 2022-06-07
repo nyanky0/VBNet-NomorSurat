@@ -1,0 +1,42 @@
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.exe
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.pdb
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.xml
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormInputSurat.resources
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormJenisSurat.resources
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormMenuUtama.resources
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormOrganisasi.resources
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormTambah.resources
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.Resources.resources
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.vbproj.GenerateResource.Cache
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.exe
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.xml
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.pdb
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.vbprojResolveAssemblyReference.cache
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.exe.config
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormReport.resources
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.exe.manifest
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.application
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.exe.manifest
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.application
+F:\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormSplashScreen.resources
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.exe.config
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.exe
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.xml
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.pdb
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.exe.manifest
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.application
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.exe
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.pdb
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\bin\Debug\Nomor Surat.xml
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.vbprojResolveAssemblyReference.cache
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormInputSurat.resources
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormJenisSurat.resources
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormMenuUtama.resources
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormOrganisasi.resources
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormReport.resources
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormSplashScreen.resources
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.FormTambah.resources
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor_Surat.Resources.resources
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.vbproj.GenerateResource.Cache
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.exe.manifest
+D:\z KERJAAN\! kuliah\kp\hwangkyo ganteng\AppNomorSurat\Nomor Surat\Nomor Surat\obj\x86\Debug\Nomor Surat.application
